@@ -2,8 +2,8 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Puente del Aprendizaje",
-    short_name: "Puente del Aprendizaje",
+    name: "Puentes de Aprendizaje",
+    short_name: "Puentes de Aprendizaje",
     description:
       "Clases particulares con amplia experiencia en Argentina. Profesora particular - Lourdes Baliña.",
     start_url: "/",

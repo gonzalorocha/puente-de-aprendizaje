@@ -12,7 +12,7 @@ export default function Home() {
 				<div className="mb-8 sm:mb-12 flex flex-col items-center gap-4 animate-fade-in-down" style={{ animationDelay: "0s" }}>
 					<Image
 						src="/logo.svg"
-						alt="Logo Puente del Aprendizaje"
+						alt="Logo Puentes de Aprendizaje"
 						width={96}
 						height={96}
 						className="h-20 w-20 sm:h-24 sm:w-24 object-contain animate-scale-in"
@@ -20,7 +20,7 @@ export default function Home() {
 						priority
 					/>
 					<h1 className="text-2xl font-bold tracking-tight text-zinc-50 sm:text-4xl text-center animate-blur-in" style={{ animationDelay: "0.15s" }}>
-						Puente del Aprendizaje
+						Puentes de Aprendizaje
 					</h1>
 					<p className="text-center text-base sm:text-lg text-zinc-400 max-w-md animate-fade-in" style={{ animationDelay: "0.3s" }}>
 						Clases particulares virtuales y presenciales con amplia experiencia en Argentina
