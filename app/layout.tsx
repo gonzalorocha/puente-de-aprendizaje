@@ -21,7 +21,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Puente de Aprendizaje | Clases Particulares en Argentina",
+  title: "Puente del Aprendizaje | Clases Particulares en Argentina",
   description:
     "Profesora particular en Argentina con amplia experiencia. Clases particulares personalizadas para ayudarte a alcanzar tus metas académicas.",
   keywords: [
@@ -32,19 +32,19 @@ export const metadata: Metadata = {
     "apoyo escolar",
     "tutoría",
   ],
-  authors: [{ name: "Puente de Aprendizaje" }],
-  creator: "Puente de Aprendizaje",
+  authors: [{ name: "Puente del Aprendizaje" }],
+  creator: "Puente del Aprendizaje",
   openGraph: {
-    title: "Puente de Aprendizaje | Clases Particulares en Argentina",
+    title: "Puente del Aprendizaje | Clases Particulares en Argentina",
     description:
       "Profesora particular con amplia experiencia. Clases particulares personalizadas en Argentina.",
     type: "website",
   },
   icons: {
     icon: [
-      { url: "/icon.png", type: "image/png" },
+      { url: "/icon.svg", type: "image/svg+xml" },
     ],
-    apple: "/icon.png",
+    apple: "/icon.svg",
   },
 };
 

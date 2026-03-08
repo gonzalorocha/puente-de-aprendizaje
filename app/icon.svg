@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="iconGradient" x1="0%" y1="100%" x2="50%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed" />
+      <stop offset="100%" stop-color="#a78bfa" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="#0d0d0f"/>
+  <!-- Bridge: two pillars + arch -->
+  <path
+    d="M 106 406 L 106 202 Q 256 32 406 202 L 406 406"
+    stroke="url(#iconGradient)"
+    stroke-width="28"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+  <!-- Arch highlight -->
+  <path
+    d="M 170 214 Q 256 120 342 214"
+    stroke="#a78bfa"
+    stroke-width="20"
+    stroke-linecap="round"
+    fill="none"
+    opacity="0.9"
+  />
+</svg>
